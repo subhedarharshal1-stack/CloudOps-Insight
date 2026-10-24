@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local AWS credentials
+.aws/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
